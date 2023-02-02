@@ -1,5 +1,5 @@
 # beginning-repo-1
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Mihilayan/beginning-repo-1/blob/main/example-2%20copy.jpg)
 <h1 align="center">Hi 👋, I'm Mihilayan Sachinthana</h1>
 <h3 align="center">A passionate pregrammer from Sri Lanka</h3>
 
